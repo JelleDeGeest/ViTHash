@@ -22,7 +22,7 @@ ViTHash is a Python library that leverages the **[ViT-L/14 model](https://huggin
 
 ### Install ViTHash
 
-You can install ViTHash from PyPI (after publishing):
+You can install ViTHash from PyPI:
 
 ```bash
 pip install vithash
