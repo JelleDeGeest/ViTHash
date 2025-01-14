@@ -3,13 +3,13 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "my-vit-hash"       # The name of your package on PyPI
+name = "ViTHash"
 version = "0.1.0"
-description = "A package to compute ViT-L/14-based image embeddings (hashes) and measure distance."
+description = "A package to compute ViT-L/14-based image hashes (embeddings) and measure distance."
 authors = [
-    { name="Your Name", email="you@example.com" }
+    { name="Jelle De Geest", email="jelledegeest@hotmail.be" }
 ]
-license = "MIT"
+license = { text = "MIT" }
 readme = "README.md"
 keywords = ["clip", "vit", "image-hashing", "huggingface", "distance-metrics"]
 classifiers = [
@@ -27,5 +27,4 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/my-vit-hash"
-"Repository" = "https://github.com/yourusername/my-vit-hash"
+"Homepage" = "https://github.com/JelleDeGeest/ViTHash"
