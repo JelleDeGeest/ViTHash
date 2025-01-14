@@ -1,6 +1,6 @@
 # ViTHash
 
-ViTHash is a Python library that leverages the **ViT-L/14 model** (Vision Transformer from OpenAI's CLIP) to compute unique, feature-rich embeddings (hashes) for images. It also provides utilities for calculating the similarity or distance between these hashes, enabling use cases such as image similarity, deduplication, and retrieval.
+ViTHash is a Python library that leverages the **[ViT-L/14 model](https://huggingface.co/openai/clip-vit-large-patch14)** (Vision Transformer from OpenAI's CLIP) to compute unique, feature-rich embeddings (hashes) for images. It also provides utilities for calculating the similarity or distance between these hashes, enabling use cases such as image similarity, deduplication, and retrieval.
 
 ---
 
